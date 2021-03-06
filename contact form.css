@@ -1,0 +1,16 @@
+*{background-color:grey;
+	padding:10px;
+	margin:10px;
+	}
+	input {
+		color:blue;
+		width:20%;
+		text-align:center;
+		align:center;
+		}
+		.cls1{backgroung-color:white;
+		font-family:FANCY STYLE 26 font;
+		}
+		select,option{
+			width:20%;
+		}
